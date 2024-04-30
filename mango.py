@@ -2,6 +2,7 @@ import requests, string
 
 HOST = 'http://host3.dreamhack.games:24528'  # 대상 호스트 주소
 CHARACTER_SET = string.digits + string.ascii_letters  # 영숫자로 구성된 문자열
+SUCCESS = 'admin'  # 패스워드가 맞을 때 반환되는 성공 메시지
 
 found_password = ''  # 찾아낸 패스워드 일부분을 저장할 변수
 for _ in range(32):  # 패스워드의 길이가 32라고 가정하여 반복

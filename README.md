@@ -11,6 +11,7 @@ DreamHack 문제들을 해결한 exploit 코드들이 있습니다.
 - [X] stream
 - [X] web-ssrf
 - [X] rev-basic-4 
+- [X] rev-basic-6
 
 
 ## 예시 코드 :clipboard:

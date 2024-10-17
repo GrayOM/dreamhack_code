@@ -34,7 +34,7 @@ byte_140003020 = [
     0x2D, 0x0F, 0xB0, 0x54, 0xBB, 0x16
 ]
 
-for i in range(len(byte_140003000)):
+for i in range(0, 0x12):
     for j in range(len(byte_140003020)):
         if byte_140003000[i] == byte_140003020[j]:
             print(chr(j), end='')

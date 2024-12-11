@@ -15,7 +15,7 @@ DreamHack 문제들을 해결한 exploit 코드들이 있습니다.
 - [X] rev-basic-5
 - [X] rev-basic-8
 - [X] blind_sql_injection_advanced
-
+- [X] chocoshop
 
 ## 예시 코드 :clipboard:
 ```python
